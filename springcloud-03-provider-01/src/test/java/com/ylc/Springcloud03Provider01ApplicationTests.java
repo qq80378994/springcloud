@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Springcloud00EurekaApplicationTests {
+class Springcloud03Provider01ApplicationTests {
 
     @Test
     void contextLoads() {
